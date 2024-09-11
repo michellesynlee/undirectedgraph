@@ -1,5 +1,5 @@
 # undirectedgraph
-dict practice
+dict/numpy practice
 
 Consider the following undirected graph.
 We can represent this graph with the following Python dictionary, often referred to as an adjacency list:
